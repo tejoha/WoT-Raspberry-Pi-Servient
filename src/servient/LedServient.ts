@@ -1,6 +1,5 @@
-import * as WoT from 'wot-typescript-definitions';
 import * as shell from 'shelljs';
-import {Servient, ContentSerdes} from '@node-wot/core';
+import {Servient} from '@node-wot/core';
 import HttpServer from '@node-wot/binding-http/dist/http-server';
 import TextCodec from '@node-wot/core/dist/codecs/text-codec';
 import {delay} from 'rxjs/operators';
