@@ -1,0 +1,4 @@
+interface MyServient {
+
+    start();
+}
