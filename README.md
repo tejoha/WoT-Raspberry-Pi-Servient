@@ -27,7 +27,7 @@ npm start
 ### HTTP Resources
 The Servient will gererate follwing HTTP url bindings. The **Thing Description** will be aviable under **localhost:8080/LED**.
 
-![](https://github.com/tejoha/WoT-Raspberry-Pi-Servient/blob/master/url-binding.jpg)
+![](https://github.com/tejoha/WoT-Raspberry-Pi-Servient/blob/master/img/url-binding.jpg)
 
 
 ### Using a browser
